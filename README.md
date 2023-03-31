@@ -1,8 +1,8 @@
-# # Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Yiwei's Problem Set 1
 ## Project information
 - **Author**: Yiwei Liang, Computation and Design with tracks in Computer Science, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Disclaimer**: Submissions to the Problem Set No.1 or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
 - **Project Summary**: 
@@ -25,7 +25,18 @@ Note: please insert the screenshot of the answers to your research question by C
 - references
 
 ### Model
-- Game Environment
+- Game Environment:<br>
+    A trust game is a social science experiment involving two participants who do not know each other and are isolated. One participant, known as the trustor, is given a sum of money that has 100$ and must decide whether to send some or all of it to the other participant, the trustee. The amount of money the trustor sends will be squared, and then the trustee can send some or all of the amount back to the trustor. Then the people with less money from those with more can take the amount ranging from zero to three fourth, the difference between two people's money, and the transferred money will be timed by a factor of two. This will play two rounds. The second round will transfer the role.<br>
+    The game's goal is to test the trustor's willingness to take a risk and send money to the trustee and the trustee's desire to reciprocate the trust by sending back some of the squared amounts. And then taking back will make the opponents consider the risk of not giving about half the money.<br>
+    The game environment is designed to simulate a situation where one must decide whether to trust another person they do not know and cannot communicate with directly. The experiment provides insights into how trust and cooperation operate in various contexts.<br>
+Possible strategies for the trustor include:<br>
+"Maximize profit": The trustor can send the maximum amount to the trustee, hoping to receive the most significant return. If the trustee decides to pay less than a fair number, the trustor can take back some of his money and times two.<br>
+"Minimize risk": The trustor sends only a small amount of money to the trustee that they got the same amount after the change to minimize the risk of losing money.
+"Reciprocity": The trustor sends an amount of money to the trustee that they believe is fair and that the trustee is probably to reciprocate by returning a similar amount.<br>
+Possible strategies for the trustee include:<br>
+"Maximize profit": The trustee returns the most significant amount of money to the trustor, then uses the rule of taking money from the people with more money to have more profits.<br>
+"Minimize loss": Give precisely the same half amount of money back to the trustor to avoid more losses or the trustor to gain more profits.<br>
+"Reciprocity": Consider the money sent by the trustor, and send back a fair amount of money to let them both win.<br>
 - Solution Concept
 - Evaluations: e.g. efficiency and fairness
 
