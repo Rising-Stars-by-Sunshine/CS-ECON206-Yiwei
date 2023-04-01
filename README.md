@@ -54,8 +54,15 @@ Then we will analyze what the first round will happen.<br>
 Considering the taking away progress of the first round, it is the wisest idea to take 3/4 of the differences in money. Or take less to make their difference less than 5$.<br>
 Then for the payback progress, to show win the most benefit, the trustee should send all money back, to have the chance of taking away money, but to show fairness and sincerity, the trustee can also make their difference less than 2$.<br>
 Considering the giving progress of the first round, the trustor can give all money to a trustee to have a higher total benefit. But if considering the chance of loss due to the second round, the trustor can give nothing to the trustee, such that both of them can win 175$ at the end instead of one of them having nothing.<br>
-- Evaluations: e.g. efficiency and fairness
-
+- **Evaluation**:<br>
+**Efficiency**:<br>
+This trust game's efficiency can be represented by the total amount of money both players have at the end of the game. In the best efficient situation, the players worked together ultimately, which means they both ended up with 17,500$. This is the best case that the sum of the profits reaches a maximum. However, if players minimize their risk or do not cooperate, they may reach a low amount of money with the lowest 175$ per person, or someone will have nothing.
+**Fairnes**s:<br>
+For this trust game, we can call it fair if both players receive approximately the same amount of money. This situation can happen in 2 scenes, in which the trustor and the trustee choose to cooperate or ultimately not work together. This leads to they can gain 175$ to 17500$ per person. However, if the first round played, they worked together very well, but one betrayed the other in the second round, leading to an unfair situation in that one of them will gain much more money than the other. In general, fairness depends on the strategies and personal choices between people, but one more take money away movement will ensure better fairness.<br>
+**Risk Management**:<br>
+For this trust game, we can find that players must be careful about what to do with the opponent because potential retaliation exists. Therefore, the risk management of the game is also essential.<br>
+**Psychological game**:<br>
+For this trust game, the trustor and the trustee need to consider the risk and the payoff of sending money to the opponent, which means they have to think about what others will do during the play. Therefore, this contributes to the psychological game between the two players. Such that we need to consider the psychological game for the evaluation.
 ### Code
 - Game Environment
 - Strategic plays
