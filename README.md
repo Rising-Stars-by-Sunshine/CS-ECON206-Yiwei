@@ -71,6 +71,17 @@ For this trust game, the trustor and the trustee need to consider the risk and t
 
 
 ### Spotlight
+- Behavioral experimental paper:<br>
+The paper on behavioral experimental research is "Fairness and Retaliation: The Economics of Reciprocity." by Fehr and Schmidt.<br>
+In the article, the authors claim that traditional economic models can not work correctly to explain fairness and social norms by listing data from experiments, which contributes to their conclusion, individuals are willing to pay a cost to punish those who behave unfairly towards them, even when doing so is not in their immediate self-interest (Fehr and Schmidt 1999, 159-160). Therefore, the authors' thoughts show that people prefer revenge on those who do not do fair things to them. At the same time, the authors also mentioned that the influence of economic theories and policies by their discoveries, which is to incorporate reciprocity into consideration, will increase better development. (Fehr and Schmidt 1999, 178-179). This shows that it is considered to consider including exchange when making policies and doing projects.<br>
+What research question does the behavioral experimental research intend to address?<br>
+For this paper, the authors find that individuals would pay costs to punish people who did unfair things to them, even damaging their interests. (Fehr and Schmidt 1999, 160). This shows that the authors do behavioral experimental research to determine what the individuals' reactions' are when facing a different situation and whether the individuals' behavior is completely self-interested during economic processes.<br>
+How does behavior in the experiments differ from backward induction?<br>
+The most significant difference between this behavior in the experiments differ from backward induction is that backward induction maximizes the expectations by giving their beliefs about others' movements. Compared to backward induction, the results of the paper show that individuals are willing to deviate from pure self-interest and punish those who treat them unfairly, even if it comes at a cost.<br>
+What is the behavioral (e.g., psychological, social) foundation that underpins the observed behavior?<br>
+I think the behavioral foundation of the observed behavior is that individuals prefer to react similarly to others. This leads to the result of the paper.<br>
+References:<br>
+Fehr, E., & Schmidt, K. M. (1999). Fairness and retaliation: The economics of reciprocity. The Journal of Economic Perspectives, 13(3), 159-181."<br>
 - Posters
 - Figures
 - Slides
