@@ -71,7 +71,7 @@ For this trust game, the trustor and the trustee need to consider the risk and t
 
 
 ### Spotlight
-- Behavioral experimental paper:<br>
+- **Behavioral experimental paper**:<br>
 The paper on behavioral experimental research is "Fairness and Retaliation: The Economics of Reciprocity." by Fehr and Schmidt.<br>
 In the article, the authors claim that traditional economic models can not work correctly to explain fairness and social norms by listing data from experiments, which contributes to their conclusion, individuals are willing to pay a cost to punish those who behave unfairly towards them, even when doing so is not in their immediate self-interest (Fehr and Schmidt 1999, 159-160). Therefore, the authors' thoughts show that people prefer revenge on those who do not do fair things to them. At the same time, the authors also mentioned that the influence of economic theories and policies by their discoveries, which is to incorporate reciprocity into consideration, will increase better development. (Fehr and Schmidt 1999, 178-179). This shows that it is considered to consider including exchange when making policies and doing projects.<br>
 What research question does the behavioral experimental research intend to address?<br>
