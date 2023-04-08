@@ -37,7 +37,7 @@ Note: please insert the screenshot of the answers to your research question by C
 "Maximize profit": The trustee returns the most significant amount of money to the trustor, then uses the rule of taking money from the people with more money to have more profits.<br>
 "Minimize loss": Give precisely the same half amount of money back to the trustor to avoid more losses or the trustor to gain more profits.<br>
 "Reciprocity": Consider the money sent by the trustor, and send back a fair amount of money to let them both win.<br>
-**Payoff:**<br>
+**Payoffs:**<br>
 Considering this situation, the payoff of the trust game divides into these situations.<br>
 1. All of the players choose to have the maximum profit strategy. This situation will lead to a maximum overall income, which means the trustor gives all money to the trustee and the trustor reserve all cash, then the trustor takes three-fourths of the difference of their money. The second round will be the same. For this situation, they will all get 15000$+2500$=17500$.<br> 
 2. One of the players decides to maximize its profits. If this player is the trustee for the first round, he will work with the trustor to have a 15000$ for the first round. For the second round, he will give 0$ to the trustee, such that the opponent will gain nothing and this guy will have the most money.<br>
@@ -57,7 +57,7 @@ Considering the giving progress of the first round, the trustor can give all mon
 - **Evaluation**:<br>
 **Efficiency**:<br>
 This trust game's efficiency can be represented by the total amount of money both players have at the end of the game. In the best efficient situation, the players worked together ultimately, which means they both ended up with 17,500$. This is the best case that the sum of the profits reaches a maximum. However, if players minimize their risk or do not cooperate, they may reach a low amount of money with the lowest 175$ per person, or someone will have nothing.
-**Fairnes**s:<br>
+**Fairness**:<br>
 For this trust game, we can call it fair if both players receive approximately the same amount of money. This situation can happen in 2 scenes, in which the trustor and the trustee choose to cooperate or ultimately not work together. This leads to they can gain 175$ to 17500$ per person. However, if the first round played, they worked together very well, but one betrayed the other in the second round, leading to an unfair situation in that one of them will gain much more money than the other. In general, fairness depends on the strategies and personal choices between people, but one more take money away movement will ensure better fairness.<br>
 **Risk Management**:<br>
 For this trust game, we can find that players must be careful about what to do with the opponent because potential retaliation exists. Therefore, the risk management of the game is also essential.<br>
@@ -74,20 +74,14 @@ For this trust game, the trustor and the trustee need to consider the risk and t
 - **Behavioral experimental paper**:<br>
 The paper on behavioral experimental research is "Fairness and Retaliation: The Economics of Reciprocity." by Fehr and Schmidt.<br>
 In the article, the authors claim that traditional economic models can not work correctly to explain fairness and social norms by listing data from experiments, which contributes to their conclusion, individuals are willing to pay a cost to punish those who behave unfairly towards them, even when doing so is not in their immediate self-interest (Fehr and Schmidt 1999, 159-160). Therefore, the authors' thoughts show that people prefer revenge on those who do not do fair things to them. At the same time, the authors also mentioned that the influence of economic theories and policies by their discoveries, which is to incorporate reciprocity into consideration, will increase better development. (Fehr and Schmidt 1999, 178-179). This shows that it is considered to consider including exchange when making policies and doing projects.<br>
-What research question does the behavioral experimental research intend to address?<br>
+**What research question does the behavioral experimental research intend to address?**<br>
 For this paper, the authors find that individuals would pay costs to punish people who did unfair things to them, even damaging their interests. (Fehr and Schmidt 1999, 160). This shows that the authors do behavioral experimental research to determine what the individuals' reactions' are when facing a different situation and whether the individuals' behavior is completely self-interested during economic processes.<br>
-How does behavior in the experiments differ from backward induction?<br>
+**How does behavior in the experiments differ from backward induction?**<br>
 The most significant difference between this behavior in the experiments differ from backward induction is that backward induction maximizes the expectations by giving their beliefs about others' movements. Compared to backward induction, the results of the paper show that individuals are willing to deviate from pure self-interest and punish those who treat them unfairly, even if it comes at a cost.<br>
-What is the behavioral (e.g., psychological, social) foundation that underpins the observed behavior?<br>
+**What is the behavioral (e.g., psychological, social) foundation that underpins the observed behavior?**<br>
 I think the behavioral foundation of the observed behavior is that individuals prefer to react similarly to others. This leads to the result of the paper.<br>
 References:<br>
 Fehr, E., & Schmidt, K. M. (1999). Fairness and retaliation: The economics of reciprocity. The Journal of Economic Perspectives, 13(3), 159-181."<br>
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
 
 ### More about the Author
 - headshot
