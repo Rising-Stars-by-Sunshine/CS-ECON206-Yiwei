@@ -37,6 +37,7 @@ Note: please insert the screenshot of the answers to your research question by C
 "Maximize profit": The trustee returns the most significant amount of money to the trustor, then uses the rule of taking money from the people with more money to have more profits.<br>
 "Minimize loss": Give precisely the same half amount of money back to the trustor to avoid more losses or the trustor to gain more profits.<br>
 "Reciprocity": Consider the money sent by the trustor, and send back a fair amount of money to let them both win.<br>
+![](model/Markmap1.PNG)
 **Payoffs:**<br>
 Considering this situation, the payoff of the trust game divides into these situations.<br>
 1. All of the players choose to have the maximum profit strategy. This situation will lead to a maximum overall income, which means the trustor gives all money to the trustee and the trustor reserve all cash, then the trustor takes three-fourths of the difference of their money. The second round will be the same. For this situation, they will all get 15000$+2500$=17500$.<br> 
