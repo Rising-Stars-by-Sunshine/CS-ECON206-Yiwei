@@ -73,6 +73,7 @@ For this trust game, the trustor and the trustee need to consider the risk and t
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
 - ![](model/Markmap1.PNG)<br>
   This is one possiable payoff for 1 round, the other round will be similar to this.<br>
+  The customized demo played during class is that the trustor get 1000$ at first, and the transfered money will be times 10. So as the send back process.
   The subjects’ behavior playing the customized demo will be different from this otree demo. Here are some possible differences:<br>
   1. People will perfer to send money back to the other because with the take money away session, they will have a higher payoff if they do this.<br>
   2. People have a higher chance to not collaborate at all because there exists a winner-takes-all rule.
@@ -89,8 +90,6 @@ For this paper, the authors find that individuals would pay costs to punish peop
 The most significant difference between this behavior in the experiments differ from backward induction is that backward induction maximizes the expectations by giving their beliefs about others' movements. Compared to backward induction, the results of the paper show that individuals are willing to deviate from pure self-interest and punish those who treat them unfairly, even if it comes at a cost.<br>
 **What is the behavioral (e.g., psychological, social) foundation that underpins the observed behavior?**<br>
 I think the behavioral foundation of the observed behavior is that individuals prefer to react similarly to others. This leads to the result of the paper.<br>
-References:<br>
-Fehr, E., & Schmidt, K. M. (1999). Fairness and retaliation: The economics of reciprocity. The Journal of Economic Perspectives, 13(3), 159-181."<br>
 
 ### More about the Author
 - headshot
@@ -104,7 +103,8 @@ Fehr, E., & Schmidt, K. M. (1999). Fairness and retaliation: The economics of re
 
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+Fehr, E., & Schmidt, K. M. (1999). Fairness and retaliation: The economics of reciprocity. The Journal of Economic Perspectives, 13(3), 159-181."<br>
+Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.<br>
 
 ```
 @article{levin2022bridging,
