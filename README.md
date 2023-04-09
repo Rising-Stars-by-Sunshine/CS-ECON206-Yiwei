@@ -80,7 +80,7 @@ For this trust game, the trustor and the trustee need to consider the risk and t
   2. People have a higher chance to not collaborate at all because there exists a winner-takes-all rule.
 - oTree Experimental Code <br>
 See code/nbm-Trust_Yiwei.otreezip<br>
-![](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206-Yiwei-PS1/blob/main/code/nbm-Trust_Yiwei.otreezip)
+[here](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206-Yiwei-PS1/blob/main/code/nbm-Trust_Yiwei.otreezip)
 
 ### Spotlight
 #### **Behavioral experimental paper**:<br>
