@@ -90,6 +90,10 @@ For this paper, the authors find that individuals would pay costs to punish peop
 The most significant difference between this behavior in the experiments differ from backward induction is that backward induction maximizes the expectations by giving their beliefs about others' movements. Compared to backward induction, the results of the paper show that individuals are willing to deviate from pure self-interest and punish those who treat them unfairly, even if it comes at a cost.<br>
 **What is the behavioral (e.g., psychological, social) foundation that underpins the observed behavior?**<br>
 I think the behavioral foundation of the observed behavior is that individuals prefer to react similarly to others. This leads to the result of the paper.<br>
+- **Reinforcement learning paper**:<br>
+The academic paper on reinforcement learning paper is "Multi-agent Reinforcement Learning in Sequential Social Dilemmas."<br>
+In this paper, based on the Q-learning algorithm, the author analyzed the dynamics strategies learned by self-interested agents and constructed a variant of the Q-learning algorithm called the Independent Learner Fictitious Play (ILFP) algorithm. This algorithm allows the players to consider the possibility of others cooperating or betraying and then updating their playing strategies (Leibo et al. 2017, 1-2). In the paper, the authors introduced two games. The first is a fruit-gathering game, while the other is a wolfpack-hunting game (Leibo et al. 2017, 1). In the end, by doing the gameplay, the authors proved the effectiveness of the variant of the Q-learning algorithm, ILFP. They showed the capacity to apply reinforcement learning in model construction and understanding complex social interactions.
+
 
 ### More about the Author
 - headshot
