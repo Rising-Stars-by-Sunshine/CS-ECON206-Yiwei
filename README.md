@@ -37,7 +37,6 @@ Note: please insert the screenshot of the answers to your research question by C
 "Maximize profit": The trustee returns the most significant amount of money to the trustor, then uses the rule of taking money from the people with more money to have more profits.<br>
 "Minimize loss": Give precisely the same half amount of money back to the trustor to avoid more losses or the trustor to gain more profits.<br>
 "Reciprocity": Consider the money sent by the trustor, and send back a fair amount of money to let them both win.<br>
-![](model/Markmap1.PNG)
 **Payoffs:**<br>
 Considering this situation, the payoff of the trust game divides into these situations.<br>
 1. All of the players choose to have the maximum profit strategy. This situation will lead to a maximum overall income, which means the trustor gives all money to the trustee and the trustor reserve all cash, then the trustor takes three-fourths of the difference of their money. The second round will be the same. For this situation, they will all get 15000$+2500$=17500$.<br> 
@@ -65,9 +64,18 @@ For this trust game, we can find that players must be careful about what to do w
 **Psychological game**:<br>
 For this trust game, the trustor and the trustee need to consider the risk and the payoff of sending money to the opponent, which means they have to think about what others will do during the play. Therefore, this contributes to the psychological game between the two players. Such that we need to consider the psychological game for the evaluation.
 ### Code
-- Game Environment
-- Strategic plays
+- Game Environment:<br>
+  Players: There are two players.<br>
+  Rounds: The game has two rounds, player have to play different role for each round.<br>
+  Endowment: For each round, the trustor will receive 100$ at first, the trustee will have nothing at first.<br>
+  Multiplier: The money sent by the trustor will be Squared during the transfer process. And when the money for the take money away process, it will be doubled.<br>
+- Strategic plays: The strategic plays mainly divides to maxmize profit, minimize risk, and cooperation.
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
+- ![](model/Markmap1.PNG)<br>
+  This is one possiable payoff for 1 round, the other round will be similar to this.<br>
+  The subjects’ behavior playing the customized demo will be different from this otree demo. Here are some possible differences:<br>
+  1. People will perfer to send money back to the other because with the take money away session, they will have a higher payoff if they do this.<br>
+  2. People have a higher chance to not collaborate at all because there exists a winner-takes-all rule.
 - oTree Experimental Code 
 
 
