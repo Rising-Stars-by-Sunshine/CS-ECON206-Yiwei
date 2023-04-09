@@ -119,6 +119,14 @@ Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *
 }
 ```
 ```
+@article{leibo2017multi,
+  title={Multi-agent reinforcement learning in sequential social dilemmas},
+  author={Leibo, Joel Z and Zambaldi, Vinicius and Lanctot, Marc and Marecki, Janusz and Graepel, Thore},
+  journal={arXiv preprint arXiv:1702.03037},
+  year={2017}
+}
+```
+```
 @article{levin2022bridging,
   title={Bridging level-k to nash equilibrium},
   author={Levin, Dan and Zhang, Luyao},
