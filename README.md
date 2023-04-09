@@ -102,11 +102,10 @@ The strategies from the reinforcement learning agent allows that agents to consi
 ### More about the Author
 - **Headshot**: <br>
 ![](Author/Yiwei_photo.jpg)
-- self-introduction
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+- **self-introduction**:<br>
+Yiwei Liang is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU. Yiwei is interested in Ai-painting and voice clone project, has few experience of applying vits and so-vits projects.
+- **Final reflections**:<br>
+Doing this problem set, I learnt how to use otree and gained much knowledge of trust games, which broaden my horizon of both economics.
 
 ### References
 
