@@ -105,7 +105,18 @@ I think the behavioral foundation of the observed behavior is that individuals p
 
 Fehr, E., & Schmidt, K. M. (1999). Fairness and retaliation: The economics of reciprocity. The Journal of Economic Perspectives, 13(3), 159-181."<br>
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.<br>
-
+```
+@article{fehr2000fairness,
+  title={Fairness and retaliation: The economics of reciprocity},
+  author={Fehr, Ernst and G{\"a}chter, Simon},
+  journal={Journal of economic perspectives},
+  volume={14},
+  number={3},
+  pages={159--182},
+  year={2000},
+  publisher={American Economic Association}
+}
+```
 ```
 @article{levin2022bridging,
   title={Bridging level-k to nash equilibrium},
