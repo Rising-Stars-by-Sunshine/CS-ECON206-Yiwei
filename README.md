@@ -100,7 +100,8 @@ For the learning algorithm, in the paper is a variant of Q-learning called the I
 - **How are the strategies from the reinforcement learning agents inspires you on trust building among humans?**<br>
 The strategies from the reinforcement learning agent allows that agents to consider what other agents will do to change their strtegies. Therefore, from this situation, we can find that people learning from the actions of others and taking them into account when making decisions, humans can also build more effective strategies for cooperation and trust.
 ### More about the Author
-- headshot
+- **Headshot**: <br>
+![](Author/Yiwei_photo.jpg)
 - self-introduction
 - Final reflections 
   - intellectual growth
