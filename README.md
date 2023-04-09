@@ -104,6 +104,7 @@ I think the behavioral foundation of the observed behavior is that individuals p
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
 Fehr, E., & Schmidt, K. M. (1999). Fairness and retaliation: The economics of reciprocity. The Journal of Economic Perspectives, 13(3), 159-181."<br>
+Leibo, Joel Z., Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and Thore Graepel. "Multi-agent reinforcement learning in sequential social dilemmas." arXiv preprint arXiv:1702.03037 (2017).<br>
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.<br>
 ```
 @article{fehr2000fairness,
