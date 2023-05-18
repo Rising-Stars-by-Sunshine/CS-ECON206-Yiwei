@@ -25,6 +25,7 @@ Note: please insert the screenshot of the answers to your research question by C
 - references
 
 ### Model
+- The following game are inspired by "Trust, Reciprocity, and Social History", which is an alternative game from the original one.
 - **Game Environment**:<br>
     A trust game is a social science experiment involving two participants who do not know each other and are isolated. Assume there are two rational participants who do not know each other. One participant, known as the trustor, is given a sum of money that has 100$ and must decide whether to send some or all of it to the other participant. The amount of money the trustor sends will be squared, and then the trustee can send some or all of the amount back to the trustor. Then the people with less money from those with more can take the amount ranging from zero to three fourth with the condition of difference of their money is bigger than 2$, the transferred money will be timed by a factor of two. This will play two rounds, which is based on two sections. The trustor and the trustee will change their role for the second round. Then accumulate the money for the two rounds to decide who is the winner. In the end, the people with more money at least 5$ compared to the opponent can take the money in his account away, but the people with less money will gain nothing.If they have the same money, they both win what they have.<br>
     The game's goal is to test the trustor's willingness to take a risk and send money to the trustee and the trustee's desire to reciprocate the trust by sending back some of the squared amounts. And then taking back will make the opponents consider the risk of not giving about half the money.<br>
@@ -150,6 +151,18 @@ Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *
   url = {https://en.wikipedia.org/wiki/Backward_induction},
   urldate = {2023-05-18}
 }
-
+@article{BERG1995122,
+title = {Trust, Reciprocity, and Social History},
+journal = {Games and Economic Behavior},
+volume = {10},
+number = {1},
+pages = {122-142},
+year = {1995},
+issn = {0899-8256},
+doi = {https://doi.org/10.1006/game.1995.1027},
+url = {https://www.sciencedirect.com/science/article/pii/S0899825685710275},
+author = {Joyce Berg and John Dickhaut and Kevin McCabe},
+abstract = {We designed an experiment to study trust and reciprocity in an investment setting. This design controls for alternative explanations of behavior including repeat game reputation effects, contractual precommitments, and punishment threats. Observed decisions suggest that reciprocity exists as a basic element of human behavior and that this is accounted for in the trust extended to an anonymous counterpart. A second treatment, social history, identifies conditions which strengthen the relationship between trust and reciprocity.}
+}
 ```
 
