@@ -45,7 +45,7 @@ Considering this situation, the payoff of the trust game divides into these situ
 3. None of the players decide to work together. They will keep all the money, and after two rounds, they will get 175$.
 4. The trustor and the trustee use a certain number of transfers that they think are reasonable. The payoff of this will be between 175$ to 17500$.<br>
 #### **Solution Concept**:<br>
-Based on the backward induction, we will analyze what will happen.<br>
+Based on the backward induction,which is the process of reasoning backwards in time, from the end of a problem or situation, to determine a sequence of optimal actions (Wikipedia). we will analyze what will happen.<br>
 - **Second round:**<br>
 For the part of taking money away from people with more money, the best choice is to take 3/4 of the difference of their money. Therefore, it is essential to have the chance to take money from whoever has more money after the trustee pays back the money since the gain can be doubled. To win the game, the people with less money have two choices: one is to take a precise amount of money to make them have the same amount, and the other is to take as much as this guy can.<br>
 Therefore, the best choice of the trustee is to send all money to the trustor, such that the trustee has the chance to take away the money from the trustor. Or, to avoid the risk of losing, the trustee can take the money away such that the difference between them is lower than 2$, which will cause a win-win situation.<br>
@@ -126,16 +126,13 @@ Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *
   year={2000},
   publisher={American Economic Association}
 }
-```
-```
 @article{leibo2017multi,
   title={Multi-agent reinforcement learning in sequential social dilemmas},
   author={Leibo, Joel Z and Zambaldi, Vinicius and Lanctot, Marc and Marecki, Janusz and Graepel, Thore},
   journal={arXiv preprint arXiv:1702.03037},
   year={2017}
 }
-```
-```
+
 @article{levin2022bridging,
   title={Bridging level-k to nash equilibrium},
   author={Levin, Dan and Zhang, Luyao},
@@ -146,5 +143,13 @@ Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *
   year={2022},
   publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
 }
+@online{wiki_backward_induction,
+  author = {{Wikipedia}},
+  title = {Backward Induction --- {Wikipedia{,} The Free Encyclopedia}},
+  year = {2021},
+  url = {https://en.wikipedia.org/wiki/Backward_induction},
+  urldate = {2023-05-18}
+}
+
 ```
 
